@@ -18,3 +18,22 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.autocomplete ul {
+  list-style: none;
+  padding-left: 0;
+  margin-top: -0.6rem;
+  cursor: pointer;
+  color: white;
+}
+
+.autocomplete li {
+  width: 100%;
+  background: #333;
+  padding: 0.8rem;
+}
+
+.autocomplete li:hover {
+  background: grey;
+  color: white;
+}
