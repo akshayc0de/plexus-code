@@ -27,11 +27,15 @@ After the packages have installed
 > yarn start || npm start
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+## The challenge
+Develop a multi step form which conditionally renders, validates, autocompletes through a GET request on input event and posts the data to an endpoint. Use React to develop the solution and ensure that everything works.
+
+## The Solution
+Using create-react-app boilerplate a solution was built using components separating the front-end into multiple sections. State management was used extensively to add functionality to the project. 
 
 ## Running the tests
 
 Unfortunately due to time constraints and the complexity involved in creating this in ReactJS I did not get time to install cypress and test the front end, but I have made sure that the functionality works 
 
 ### What did not work
-Due to my newness to React, I was not able to fully get the autocomplete to work, although with more time and exposure I am fully confident that I will become really good with this library and prove my skills in large projects
+I have been coding in React for less than 7 months, due to not being exposed to a lot of the functionality that I would rather use vanilla JS for and as a result I was not able to fully get the autocomplete to work to expectation, although with more time and exposure I am fully confident that I will become really good with this library and prove my skills in large projects
