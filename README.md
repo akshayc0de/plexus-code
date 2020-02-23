@@ -1,6 +1,4 @@
-# Project Title
-
-Plexus Front-End Code Challenge
+# Plexus Front-End Code Challenge
 
 ## Getting Started
 
