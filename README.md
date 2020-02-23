@@ -37,5 +37,6 @@ Using create-react-app boilerplate a solution was built using components separat
 
 Unfortunately due to time constraints and the complexity involved in creating this in ReactJS I did not get time to install cypress and test the front end, but I have made sure that the functionality works 
 
-### What did not work
+## What did not work
+
 I have been coding in React for less than 7 months, due to not being exposed to a lot of the functionality that I would rather use vanilla JS for and as a result I was not able to fully get the autocomplete to work to expectation, although with more time and exposure I am fully confident that I will become really good with this library and prove my skills in large projects
