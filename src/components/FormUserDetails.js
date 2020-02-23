@@ -41,11 +41,3 @@ export class FormUserDetails extends Component {
 }
 
 export default FormUserDetails;
-
-// running log of this component
-// the dropdown changes and sets the state and retains it - done
-// the textarea also sends its data to the state and retains it - done
-// next I need to conditionally render the textarea based on the user selection - done
-// validate form part 1 - done
-// validate form part 2 - 
-// Perform user lookup and autofill - sort of done
